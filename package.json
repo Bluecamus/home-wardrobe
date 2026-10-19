@@ -1,8 +1,8 @@
 {
   "name": "wardrobe",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
-  "description": "A local-first AI wardrobe gallery powered by OpenAI.",
+  "description": "本地优先的 AI 智能衣橱（国内版），接入火山引擎方舟（豆包）模型。",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tandpfun/wardrobe.git"
+    "url": "git+https://github.com/Bluecamus/home-wardrobe.git"
   },
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/tandpfun/wardrobe/issues"
+    "url": "https://github.com/Bluecamus/home-wardrobe/issues"
   },
-  "homepage": "https://github.com/tandpfun/wardrobe#readme"
+  "homepage": "https://github.com/Bluecamus/home-wardrobe#readme"
 }
