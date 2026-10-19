@@ -1,0 +1,16 @@
+{
+  "name": "智能衣橱",
+  "short_name": "衣橱",
+  "description": "本地优先的 AI 智能衣橱，支持链接导入、天气推荐和风格记忆",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f0e8",
+  "theme_color": "#f4f0e8",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

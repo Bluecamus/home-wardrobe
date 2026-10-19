@@ -1,0 +1,23 @@
+# 依赖与构建产物
+node_modules/
+dist/
+
+# 系统文件
+.DS_Store
+
+# 环境变量：只提交模板，绝不提交真实 .env
+.env
+.env.*
+!.env.example
+
+# 日志
+*.log
+
+# 运行期个人数据（衣橱抠图、灵感图、试穿图、人像参考图）
+# 仅保留 data/README.md 作为结构说明，其余内容全部忽略
+data/*
+!data/README.md
+
+# 编辑器 / AI 工具内部目录
+.trae/
+temp_resume_images/

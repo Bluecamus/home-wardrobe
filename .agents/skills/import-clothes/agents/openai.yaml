@@ -1,0 +1,7 @@
+interface:
+  display_name: "Import Clothes"
+  short_description: "Import clothes with modeled photos"
+  default_prompt: "Use $import-clothes to extract my clothes, create modeled photos, and import them into this Wardrobe."
+
+policy:
+  allow_implicit_invocation: true

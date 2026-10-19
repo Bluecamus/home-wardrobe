@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Outfits"
+  short_description: "Style and model outfits from your wardrobe"
+  default_prompt: "Use $generate-outfits to create modeled outfit ideas from my local Wardrobe."
